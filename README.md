@@ -1,5 +1,5 @@
 # Mobile-Rover-Design
-The goal of this project is to design and assemble a automatic mobile rover to accomplish prescribed tasks including line tracing, color matching, ultrasonic rangingradar navigation, manipulator design, wireless communication etc. The major hardwares we use include Raspberry Pi, mbed, FGPA, camera, DC motor; and the software is mainly implemented in python and C. <br />
+The goal of this project is to design and assemble a automatic mobile rover to accomplish prescribed tasks including line tracing, color matching, ultrasonic rangingradar navigation, manipulator design, wireless communication etc. The major hardwares we use include Raspberry Pi, mbed, FGPA, camera, DC motor; and the software is mainly implemented in python and C++. <br />
 
 Demo
 ----
